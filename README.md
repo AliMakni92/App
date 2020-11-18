@@ -1,6 +1,6 @@
-# Email-Verification-SignUp-Form-using-PHP-Mysql
+# App
 
-Email Verification of Signup Forms with Remember Me |Forgot Password |Email-Verification |Admin Page
+App Application 
 
 Instructions for using this Repo:
 
